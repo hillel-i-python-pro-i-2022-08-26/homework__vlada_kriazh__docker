@@ -5,6 +5,6 @@
 ***Enter to start***
 >make d-homework-i-run
 
-***Enter to install requirements***
+***Enter to purge homework related data***
 >make d-homework-i-purge
 > 
